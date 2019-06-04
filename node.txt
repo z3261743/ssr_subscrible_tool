@@ -1,2 +1,4 @@
 #临时1
 ssr://NDUuNjMuMjIuMzM6NDEwMDpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46ZW1oaGJtY3dNUQ
+#临时2
+ss://YWVzLTI1Ni1jZmI6emhhbmcwM0A0NS42My4yMi4zMzo0MzA
